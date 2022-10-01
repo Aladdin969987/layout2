@@ -1,0 +1,218 @@
+*{margin: 0;}
+
+header{
+overflow: hidden;
+}
+.bar{
+width: 100%;
+height: 60px;
+background-color: chocolate;
+color: antiquewhite;
+text-align: center;
+}
+
+.menu{
+overflow: hidden;
+}
+
+.index{
+width: 25%;
+height: 70px;
+background-color: rgb(6, 112, 252);
+color: antiquewhite;
+text-align: center;
+float: left;
+}
+
+.blank{
+width: 25%;
+height: 70px;
+background-color: rgb(32, 54, 102);
+color: aliceblue;
+text-align: center;
+float: left;
+}
+
+.prev{
+
+    width: 25%;
+    height: 70px;
+    background-color: rgb(9, 134, 236);
+    color: aliceblue;
+    text-align: center;
+    float: left;
+}
+
+.next{
+
+    width: 25%;
+    height: 70px;
+    background-color: rgb(54, 30, 139);
+    color: aliceblue;
+    text-align: center;
+    float: left;
+}
+
+.content{
+
+}
+
+.right_content{
+
+
+
+    width: 40%;
+    height: 700px;
+    background-color: rgb(154, 224, 186);
+    color: rgb(8, 8, 8);
+    text-align: center;
+    float: left;
+}
+
+.left_content{
+
+
+    width: 60%;
+    height: 700px;
+    background-color: rgb(35, 117, 72);
+    color: rgb(8, 8, 8);
+    text-align: center;
+    float: left;
+
+}
+
+.right_content{
+
+overflow: hidden;
+}
+
+.video{
+
+    width: 100%;
+    height: 350px;
+    background-color: rgb(82, 59, 10);
+    color: rgb(243, 190, 190);
+    text-align: center;
+    float: left;
+}
+
+.chapter{
+
+
+    width: 100%;
+    height: 350px;
+    background-color: rgb(117, 95, 48);
+    color: rgb(24, 10, 10);
+    text-align: center;
+    float: left;
+}
+
+.left_content{
+overflow: hidden;
+}
+
+.slide{
+
+    width: 100%;
+    height: 400px;
+    background-color: rgb(95, 62, 0);
+    color: rgb(250, 245, 245);
+    text-align: center;
+    float: left;
+
+}
+
+.audio{
+
+    width: 100%;
+    height: 300px;
+    background-color: rgb(150, 104, 4);
+    color: rgb(22, 16, 16);
+    text-align: center;
+    float: left;
+
+}
+
+footer{
+
+    width: 100%;
+    height: 100px;
+    background-color: chocolate;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    float: left;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
